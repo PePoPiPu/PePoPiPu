@@ -23,7 +23,9 @@
 
 ### :man_technologist: Sobre Mi :
 
-Soy una persona en proceso de convertirse en desarrollador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Madrid.
+Soy una persona en proceso de convertirse en desarrollador. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+Ubicado en Madrid.
+
 
 - :telescope: Quiero trabajar como desarrollador para acumular experiencia. Ahora mismo estoy trabajando en la industria de cambio de moneda. Nada que ver.
 
