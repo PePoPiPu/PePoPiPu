@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-   <a href="your-linkedin-URL">
+   <a href="https://es.linkedin.com/in/alex-%C3%A1lvarez-de-sotomayor-sugimoto-04b2291bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
 </div>
