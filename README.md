@@ -33,7 +33,7 @@ Ubicado en Madrid.
 
 - :zap: En mi poco tiempo libre me dedico a picar código e investigar para aprender todo lo posible.
 
-- :mailbox:Como contactar conmigo: alexsugimoto@outlook.com
+- :mailbox: Contacta conmigo: alexsugimoto@outlook.com
 
 ---
 
