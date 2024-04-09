@@ -27,11 +27,11 @@ Soy una persona en proceso de convertirse en desarrollador. <img src="https://me
 Ubicado en Madrid.
 
 
-- :telescope: Quiero trabajar como desarrollador para acumular experiencia. Ahora mismo estoy trabajando en la industria de cambio de moneda. Nada que ver.
+- :telescope: Con ganas de trabajar como desarrollador para acumular experiencia en una industria que me resulta apasionante.
 
 - :seedling: Explorando el mundo del software y la informática en general.
 
-- :zap: En mi poco tiempo libre me dedico a picar código como loco para aprender todo lo posible.
+- :zap: En mi poco tiempo libre me dedico a picar código e investigar para aprender todo lo posible.
 
 - :mailbox:Como contactar conmigo: alexsugimoto@outlook.com
 
