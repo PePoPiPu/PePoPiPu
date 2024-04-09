@@ -11,8 +11,10 @@
 </div>
 <h1 align="center">
   Bienvenid@s a mi GitHub!
+  <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<br>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxxb3E1aHUwbjNkcWpwdmg1eHg4Z2E3eXZsanFyYWhtNmV1aHYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
