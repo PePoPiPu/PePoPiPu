@@ -37,6 +37,6 @@
 
 ### :fire: My Stats :
 <table>
-<th><img src="https://github-readme-stats-alexsugimotos-projects.vercel.app/api/top-langs/?username=PePoPiPu&theme=nord&hide_border=true&layout=compact"/></th>
+<th><img src="https://github-readme-stats-alexsugimotos-projects.vercel.app/api/top-langs/?username=PePoPiPu&theme=nord&hide_border=true&count_private=true&layout=compact&langs_count=10"/></th>
 <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=PePoPiPu&theme=nord&hide_border=true&count_private=true"/></th>  
 </table>
